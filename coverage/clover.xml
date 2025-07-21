@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1753087403312" clover="3.2.0">
+  <project timestamp="1753087403314" name="All files">
+    <metrics statements="14" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0" elements="16" coveredelements="12" complexity="0" loc="14" ncloc="14" packages="3" files="4" classes="4"/>
+    <package name="src">
+      <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="app.js" path="/home/joygichure/github-classroom/PLP-MERN-Stack-Development/week-6-test-debug-assignment-gichurejoy/server/src/app.js">
+        <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.models">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="Post.js" path="/home/joygichure/github-classroom/PLP-MERN-Stack-Development/week-6-test-debug-assignment-gichurejoy/server/src/models/Post.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+      <file name="User.js" path="/home/joygichure/github-classroom/PLP-MERN-Stack-Development/week-6-test-debug-assignment-gichurejoy/server/src/models/User.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.utils">
+      <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="auth.js" path="/home/joygichure/github-classroom/PLP-MERN-Stack-Development/week-6-test-debug-assignment-gichurejoy/server/src/utils/auth.js">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
